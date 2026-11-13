@@ -1,0 +1,4 @@
+# Manech — galerie publique
+# Variante ouverte : accessible aux moteurs de recherche.
+User-agent: *
+Allow: /
